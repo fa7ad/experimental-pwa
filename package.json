@@ -6,7 +6,7 @@
   "_homepage": "https://fa7ad.github.io/experimental-pwa",
   "dependencies": {
     "react": "^16.2.0",
-    "react-dom": "^16.2.0"
+    "react-dom": "^16.8.6"
   },
   "devDependencies": {
     "gh-pages": "^1.1.0",
