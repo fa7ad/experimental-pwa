@@ -9,7 +9,7 @@
     "react-dom": "^16.8.6"
   },
   "devDependencies": {
-    "gh-pages": "^1.1.0",
+    "gh-pages": "^2.0.1",
     "local-web-server": "^2.5.1",
     "react-scripts": "1.1.1",
     "react-snap": "^1.23.0",
