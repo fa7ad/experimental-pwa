@@ -10,7 +10,7 @@
   },
   "devDependencies": {
     "gh-pages": "^2.0.1",
-    "local-web-server": "^3.0.3",
+    "local-web-server": "^3.0.4",
     "react-scripts": "3.0.1",
     "react-snap": "^1.23.0",
     "rimraf": "^2.6.3"
