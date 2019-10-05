@@ -11,7 +11,7 @@
   "devDependencies": {
     "gh-pages": "^2.1.1",
     "local-web-server": "^3.0.7",
-    "react-scripts": "3.1.2",
+    "react-scripts": "3.2.0",
     "react-snap": "^1.23.0",
     "rimraf": "^3.0.0"
   },
